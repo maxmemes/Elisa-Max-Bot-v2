@@ -96,7 +96,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
-global.CHATGPT_API = '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'
+global.CHATGPT_API = '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'
 /*
 
    🍃 OTHER 🍃
@@ -144,7 +144,7 @@ global.pengguna = 'Austin Max' // Your name ඔබේ නම
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'AUSTIN MAX'
 
 global.limitawal = {
     premium: "Infinity", 
