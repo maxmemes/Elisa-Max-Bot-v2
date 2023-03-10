@@ -54,13 +54,13 @@ global.UPLOAD_MAX = false
 // You Bots Owner Number 
 global.owner = ['265997133051'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ELISA MAX BOT'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'ELISA MAX BOT' 
 //👇 Your name
 global.ownernma =  'Austin Max' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'AUSTIN MAX' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -96,7 +96,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
-global.CHATGPT_API = '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'
+global.CHATGPT_API = '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'
 /*
 
    🍃 OTHER 🍃
