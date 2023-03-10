@@ -56,11 +56,11 @@ global.owner = ['265997133051']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃'
 //👇 Your Bot Name
-global.botnma =  'ELISA MAX BOT' 
+global.botnma =  'ELISA MAX BOT V3' 
 //👇 Your name
-global.ownernma =  'Austin Max' 
+global.ownernma =  'AUSTIN MAX' 
 //👇 Sticker Author Name
-global.packname =  'Austin Max' 
+global.packname =  'MAX BOT' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -80,7 +80,7 @@ global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -120,7 +120,7 @@ global.mess = {
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait while im Processing your request...*',
+    wait: '*♲ Please Wait I am processing your request...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
@@ -144,7 +144,7 @@ global.pengguna = 'Austin Max' // Your name ඔබේ නම
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'Elisa Max Bot'
+global.weem = 'MAX BOT'
 
 global.limitawal = {
     premium: "Infinity", 
@@ -159,7 +159,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
+//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
