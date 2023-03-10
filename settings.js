@@ -54,11 +54,11 @@ global.UPLOAD_MAX = true
 // You Bots Owner Number 
 global.owner = ['265997133051'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃'
+global.cap = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃*'
 //👇 Your Bot Name
-global.botnma =  'ELISA MAX BOT' 
+global.botnma =  '*ELISA MAX BOT*' 
 //👇 Your name
-global.ownernma =  'Austin Max' 
+global.ownernma =  '*AUSTIN MAX*' 
 //👇 Sticker Author Name
 global.packname =  'AUSTIN MAX' 
 //👇 Inbox Block Massage 
