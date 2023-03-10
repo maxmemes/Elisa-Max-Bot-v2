@@ -80,7 +80,7 @@ global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -96,7 +96,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
-global.CHATGPT_API = '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'
+global.CHATGPT_API = ''
 /*
 
    🍃 OTHER 🍃
@@ -159,7 +159,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+//global.alivelogo = `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
