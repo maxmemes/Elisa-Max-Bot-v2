@@ -148,7 +148,7 @@ global.weem = '𝙼𝙰𝚇 𝙱𝙾𝚃'
 
 global.limitawal = {
     premium: "Infinity", 
-    free: 𝟻
+    free: 90
 }
 //global api
 global.fbapi = 'dd79-1aeb-21a3'
