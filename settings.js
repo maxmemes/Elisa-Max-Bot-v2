@@ -148,7 +148,7 @@ global.weem = 'AUSTIN MAX'
 
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: 15
 }
 //global api
 global.fbapi = 'dd79-1aeb-21a3'
